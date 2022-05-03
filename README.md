@@ -40,9 +40,9 @@ Samouraï Warriors Like
 
 - 1 Zone par tranche de niveau. Les anciennes zones donnent moins d'XP que les zones actuelles.
 
-- 19 Zones de pex. 1 Zones par equipier et par zone de pex sur Wow avec un Boss. Tuer le boss libére un
+- 19 Zones de pex. 1 Zones par equipier et par zone de pex sur Wow avec un Boss. Tuer le boss libére un coequipier.
 
--
+- 1 Zone final (Rochenoire) avec Ragnaros.
 
 - Niveaux Difficulté (Plus il est élevé plus le stuff est bien):
 
