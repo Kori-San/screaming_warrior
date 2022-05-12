@@ -1,24 +1,32 @@
-# The Screaming Warrior: A Le(e)roy Jenkins Adventure
+# The Screaming Warrior: A Leeroy Jenkins Adventure
 
-Samouraï Warriors Like
+A ["Dynasty Warriors"](https://en.wikipedia.org/wiki/Dynasty_Warriors) Like telling the story of Warcraft's World Legend : [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins).
 
-## Gameplay
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.mamytwink.com%2Fupload%2Fnews%2F2017%2Fdecembre%2F28%2Fleeroy-jenkins.jpg&sp=1652358053T23bd9483292dd8df0a3e31b884be0c548a347ae8675658ede2dbb15e28d60685" alt="Leeroy Jenkins Image" style="margin-bottom: 10px; border-radius: 5px">
 
-- Attaque à l'arme (Version Arcade)
+# Gameplay
 
-  - Exécution
+## Combat
 
-  - Tourbillon
+Le jeu étant basé sur les jeux ["Dynasty Warriors"](https://en.wikipedia.org/wiki/Dynasty_Warriors) les mécaniques de combat sont au centre du Gameplay.
 
-  - Jet d'armes (Jette l'arme sur une ligne il faut la récuperer)
+Dans une éventuelle version Arcade du jeu le joueur aura la possibilité de varier la violence des attaques en appuyant plus ou moins forts sur les bouttons de la borne. 
 
-  - Saut de War (Saut normal si arme jetter else saut dégats)
+- _**L'attaque classique**_ : Leeroy fait des vastes attaque. Frappant violament les enemis proches.
 
-- Attaque Vocal (Street Fighter)
+- _**Exécution**_ : Une attaque iconique des Guerriers de Warcraft. Leeroy brandit son arme et fait un attaque d'estoc pulvérisant tout les enemis devant lui.
 
-  - Crie Leroy Jenkins, plus tu crie fort sur ton micro plus tu fait de dégats et ton cri va loin
+- _**Tourbillon**_ : Leeroy tourne sur lui même tout en brandissant son arme faisant d'énorme dégats aux enemis proches.
 
-## Stuff
+- _**Jet d'armes**_ Leeroy jette son arme sur une ligne droit devant lui. Après avoir lançé son arme, Leeroy devra la récuperer soit en se jetant dessus soit en courant dessus.
+
+- _**Saut de Guerrier**_ Leeroy saute haut dans le ciel et atteris violament sur le sol, écrasant les enemis qui se trouve en dessous de lui et récuperrant son arme si elle se trouve dans le rayon de l'attaque. 
+
+- _**Cri de Rochenoire**_ Leeroy lâche son cri iconique. Si un appareil d'enregistrement vocal est détécté alors le joueur pourras faire un cri plus puissant en criant "LEEROY JENKINS" dans son micro.
+
+## Progression et jouabilité
+
+### Stuff
 
 - Arme / Armure font partie d'un set avec un minimum de stat de bases selon le niveau de difficulté
 
