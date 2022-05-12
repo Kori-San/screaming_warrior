@@ -1,10 +1,32 @@
 # The Screaming Warrior: A Leeroy Jenkins Adventure
 
-A ["Dynasty Warriors"](https://en.wikipedia.org/wiki/Dynasty_Warriors) Like telling the story of Warcraft's World Legend : [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins).
+A ["Dynasty Warriors"](https://en.wikipedia.org/wiki/Dynasty_Warriors) Like telling the story of [Warcraft](https://en.wikipedia.org/wiki/Warcraft)'s World Legend : [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins).
 
 <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.mamytwink.com%2Fupload%2Fnews%2F2017%2Fdecembre%2F28%2Fleeroy-jenkins.jpg&sp=1652358053T23bd9483292dd8df0a3e31b884be0c548a347ae8675658ede2dbb15e28d60685" alt="Leeroy Jenkins Image" style="margin-bottom: 10px; border-radius: 5px">
 
+The game is based on the 4 most iconic facts about Leeroy:
+
+- Him shouting "LEEROY JENKINS".
+
+- His Turkey.
+
+- His whole raid crew being wiped by Whelplings.
+
+- Him being stubborn and brave.
+
 # Gameplay
+
+## Histoire
+
+Dragonnet qui vole la dinde de sa mere puis il va à rochenoire, il voit qu'il a besoin d'etre 20 donc il par chercher 19 autres personnes.
+
+Maman Leeroy + crie Leeroy = Trauma
+
+Dragonnet
+
+Dinde
+
+Récupere tout ses compagnon au cours des zones pour trouver des amis.
 
 ## Combat
 
@@ -26,7 +48,43 @@ Dans une éventuelle version Arcade du jeu le joueur aura la possibilité de var
 
 ## Progression et jouabilité
 
+### Joueur
+
+- Le joueur pourra atteindre le niveau 60 maximum.
+
+### Zones
+
+- Hurlevent, Bastion de l'humanité. La ville d'Hurlevent servira de _**HUB**_ Solo pour le joueur. Il pourra y trouver:
+
+  - Des _**PNG**_ et _**Activités**_ suivantes:
+
+    - _**Un coiffeur**_. Il permettra au joueur de personaliser Leeroy sans perdre l'identité du personnage. (Coupe, tattouages temporaires, ornements)
+
+    - _**Un transmogrifieur**_. Il permettra au joueur de changer l'apparence de l'armure dont il est équipée en une armure qui aura déjà été ramassé au cours du Playthrough ou bien une piéce d'armure cosmétique.
+    
+    - _**Des PNJs**_. Les PNJs pourront donner des quêtes qui pourront guider le joueur où donner des récomponses exclusives.
+
+  - _**Hôtel de vente**_. Un endroit ou les differents joueurs pourront mettre en vente leur équipements pour que d'autres joueurs puissent les acheters en ligne.
+
+- Les zones se compose de différent Forts avec des mini-boss à tuer. Libérer tout les forts débloque le donjon de Boss. Une fois le donjon fini et le boss tuer, un nouveau coéquipier sera débloquer.
+
+- Il y aura 19 Zone d'Histoire dans lesquel le joueur pourra avancé avec 1 Zone par tranche de niveau. Les anciennes zones donneront moins d'XP lorsque le joueur débloquera une nouvelle zone.
+
+- Il y aura une zone final disponible seulement après avoir obtenue les 19 coéquipier.
+
+- A chaque fois qu'un niveau est achever le joueur débloque le niveau de difficulté supérieur pour ce niveau:
+
+  - Normal
+
+  - Heroïque
+
+  - Mythic
+
+  - Mythic + (+2 -> +20)
+
 ### Stuff
+
+- Plus la difficulté est elevé plus l'équipement est bien, toutes les zones partage le même niveau d'équipements pour la difficulté Mythic et Mythic.
 
 - Arme / Armure font partie d'un set avec un minimum de stat de bases selon le niveau de difficulté
 
@@ -39,25 +97,3 @@ Dans une éventuelle version Arcade du jeu le joueur aura la possibilité de var
 - 1 Arme:
 
   - Epée / Hache à 2 Mains
-
-## Zones
-
-- Hurlevent / HUB Solo: HDV pour vendre le stuff récuperer.
-
-- Transmogrification
-
-- 1 Zone par tranche de niveau. Les anciennes zones donnent moins d'XP que les zones actuelles.
-
-- 19 Zones de pex. 1 Zones par equipier et par zone de pex sur Wow avec un Boss. Tuer le boss libére un coequipier.
-
-- 1 Zone final (Rochenoire) avec Ragnaros.
-
-- Niveaux Difficulté (Plus il est élevé plus le stuff est bien):
-
-  - Normal
-
-  - Heroïque
-
-  - Mythic
-
-  - Mythic + (+2 -> +20)
