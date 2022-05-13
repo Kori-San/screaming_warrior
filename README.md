@@ -2,7 +2,7 @@
 
 A ["Dynasty Warriors"](https://en.wikipedia.org/wiki/Dynasty_Warriors) Like telling the story of [Warcraft](https://en.wikipedia.org/wiki/Warcraft)'s World Legend : [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins).
 
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.mamytwink.com%2Fupload%2Fnews%2F2017%2Fdecembre%2F28%2Fleeroy-jenkins.jpg&sp=1652358053T23bd9483292dd8df0a3e31b884be0c548a347ae8675658ede2dbb15e28d60685" alt="Leeroy Jenkins Image" style="margin-bottom: 10px; border-radius: 5px">
+<img src="https://www.mamytwink.com/upload/news/2017/decembre/28/leeroy-jenkins.jpg" alt="Leeroy Jenkins Image" style="margin-bottom: 10px; border-radius: 5px">
 
 The game is based on the 4 most iconic facts about Leeroy:
 
