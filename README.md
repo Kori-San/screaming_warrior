@@ -14,9 +14,7 @@ The game is based on the 4 most iconic facts about Leeroy:
 
 - Him being stubborn and brave.
 
-# Gameplay
-
-## Histoire
+# Histoire
 
 Dragonnet qui vole la dinde de sa mere puis il va à rochenoire, il voit qu'il a besoin d'etre 20 donc il par chercher 19 autres personnes.
 
@@ -27,6 +25,29 @@ Dragonnet
 Dinde
 
 Récupere tout ses compagnon au cours des zones pour trouver des amis.
+
+# Méchanique
+
+- 3 fin possible:
+  - Une fin Ami de Ragnaros
+  - Une fin Esprit d'équipe
+  - Une fin Anarchie (Leeroy)
+
+- Portail avec élément d'autres univers vidéo-ludique dans un Mini-donjon généré aléatoirement.
+
+- Leeroy Battle Royale avec plein de Leeroy. (Avec chat vocal)
+
+- Imposteur. si tu tape un pote ou que tu active un piége en raid et avec barre de suspicion qui monte quand tu tue un alié, et la barre decsend quand tu ne tue personne. alors ton raid veux te tué.
+
+- Chaque zone est généré aléatoirement
+
+- Dans zones de raid il y a piéges
+
+- Le boss de raid plus il y a de coéquipier plus le boss a d'hp et de dégats.
+
+- Tuer les coéquipier OU le boss gagne du stuff.
+
+# Gameplay
 
 ## Combat
 
@@ -43,6 +64,8 @@ Dans une éventuelle version Arcade du jeu le joueur aura la possibilité de var
 - _**Jet d'armes**_ Leeroy jette son arme sur une ligne droit devant lui. Après avoir lançé son arme, Leeroy devra la récuperer soit en se jetant dessus soit en courant dessus.
 
 - _**Saut de Guerrier**_ Leeroy saute haut dans le ciel et atteris violament sur le sol, écrasant les enemis qui se trouve en dessous de lui et récuperrant son arme si elle se trouve dans le rayon de l'attaque. 
+
+  - Montilier Si tu tombe sur une monture tu grimpe dessus et tu te bat sur la monture.
 
 - _**Cri de Rochenoire**_ Leeroy lâche son cri iconique. Si un appareil d'enregistrement vocal est détécté alors le joueur pourras faire un cri plus puissant en criant "LEEROY JENKINS" dans son micro.
 
@@ -66,9 +89,11 @@ Dans une éventuelle version Arcade du jeu le joueur aura la possibilité de var
 
   - _**Hôtel de vente**_. Un endroit ou les differents joueurs pourront mettre en vente leur équipements pour que d'autres joueurs puissent les acheters en ligne.
 
-- Les zones se compose de différent Forts avec des mini-boss à tuer. Libérer tout les forts débloque le donjon de Boss. Une fois le donjon fini et le boss tuer, un nouveau coéquipier sera débloquer.
+- Les zones se compose de différent Forts  avec des mini-boss à tuer. Libérer tout les forts débloque le donjon de Boss, Boss tu rejoins un groupe de raid et tu peux soit les tuer eux.
 
 - Il y aura 19 Zone d'Histoire dans lesquel le joueur pourra avancé avec 1 Zone par tranche de niveau. Les anciennes zones donneront moins d'XP lorsque le joueur débloquera une nouvelle zone.
+
+- 
 
 - Il y aura une zone final disponible seulement après avoir obtenue les 19 coéquipier.
 
