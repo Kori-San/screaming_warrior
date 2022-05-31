@@ -79,17 +79,32 @@ Certains équipement peuvent faire partie de Sets conférant des bonus spécifiq
 
 Notre Leeroy est personalisable que se soit au niveau de ses compétences, de son type d'équipement (Lourd, léger, moyen), son types d'arme (magique, distant, lourd, tranchant, ect..).
 
-## Mode Infini
+Certaines compétences seront restreintes à certaines armes où à un certain Karma et ces même compétences peuvent être boosté et modifié à l'aide de runes.
 
-Tout ses équipements.
+En dehors des compétences Leeroy posséde 3 capacités Basique:
+  - Son légendaire cri
+  - Son attaque automatique
+  - Son saut 
 
 ## Mythique
 
-## Loot
+Tout ses équipements sont obtenables soit à travers l'histoire soit à travers le mode Mythique !
+
+Le mode mythique permet à Leeroy de parcours des univers infinis avec une difficulté croissante.
+
+Plus le niveau de l'histoire où du mode infini est elevé plus l'équipement obtenue est meilleur.
+
+Selon le type d'univers dans lequel on se trouve l'apparence des équipements change.
 
 # Épopée Multijoueur
 
 ## HUB
+
+Tout les Leeroy se retrouvent à Dalaran, la cité des mages qui est devenue le bastion des aventuriers du Multivers.
+
+Ce HUB en ligne permet au differends joueurs de se retrouver entre eux et d'avoir accés aux différent mode de jeu et à des PNGs qui leurs donneront accés à des fonctionnalites spécifiques et des quêtes secondaires.
+
+On pourra par exemple changer l'apparence de nos armes à l'aide d'un transmogrifieur.
 
 ## PvP
 
@@ -99,4 +114,4 @@ Tout ses équipements.
 
 ## PvE
 
-### Mode Infini
+
