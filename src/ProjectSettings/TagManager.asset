@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 4082498239
+    locked: 0
+  - name: Map
+    uniqueID: 1410580889
+    locked: 0
+  - name: Player
+    uniqueID: 3404048565
+    locked: 0
+  - name: Effects
+    uniqueID: 533122345
+    locked: 0
+  - name: UI
+    uniqueID: 1738344683
+    locked: 0
