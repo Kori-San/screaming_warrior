@@ -14,13 +14,21 @@ public class player : MonoBehaviour
     void Update()
     {
         Vector3 actualPos = transform.position; 
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.UpArrow))
         {
-            actualPos.y += 1;
+            actualPos.y += .25F;
         }
-        if (Input.GetKeyDown(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.DownArrow))
         {
-            actualPos.y -= 1;
+            actualPos.y -= .25F;
+        }
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+             actualPos.x -= .25F;
+        }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+             actualPos.x += .25F;
         }
         transform.position = actualPos;
     }
