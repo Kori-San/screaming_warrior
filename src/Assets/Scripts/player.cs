@@ -4,32 +4,33 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
+
+    public float speed = .1F;
+    private Rigidbody2D rb;
+    private Vector3 move;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 actualPos = transform.position; 
-        if (Input.GetKey(KeyCode.UpArrow))
+        move = Vector3.zero;
+        move.x = Input.GetAxisRaw("Horizontal");
+        move.y = Input.GetAxisRaw("Vertical");
+        if (move != Vector3.zero)
         {
-            actualPos.y += .25F;
+            MoveCharacter();
         }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            actualPos.y -= .25F;
-        }
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-             actualPos.x -= .25F;
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-             actualPos.x += .25F;
-        }
-        transform.position = actualPos;
+    }
+    
+    void MoveCharacter()
+    {
+        rb.MovePosition(
+            transform.position + move * speed * Time.deltaTime
+        );
     }
 }
