@@ -39,7 +39,7 @@ public class player : MonoBehaviour
             transform.position + (move * 25) * speed * Time.deltaTime
         );
     }
-
+    
     // Update the health
     void UpdateHealth(int difHp)
     {
